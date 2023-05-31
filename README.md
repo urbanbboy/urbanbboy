@@ -1,4 +1,4 @@
-<img align="center" alt="samurai" src="https://www.behance.net/gallery/77644993/Samurai-Enemy-Gif/modules/450807033">
+<h1 align="center">Hi! Welcome :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <h1 align="center">Hi, I'm Talant</h1>
 <h3 align="center">Front-end developer from Kyrgyzstan</h3>
 

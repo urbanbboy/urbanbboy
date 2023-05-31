@@ -1,5 +1,7 @@
 <h1 align="center">Hi! Welcome :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<h1 align="center">Hi, I'm Talant</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="200px"/>
+</div>
 <h3 align="center">Front-end developer from Kyrgyzstan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urbanbboy&label=Profile%20views&color=0e75b6&style=flat" alt="urbanbboy" /> </p>

@@ -1,7 +1,6 @@
 <h1 align="center">Hi! Welcome :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <div id="header" align="center">
-  <img src="![image](https://github.com/urbanbboy/urbanbboy/assets/102015315/a87ba633-02a7-4495-a4eb-72ac7e8b24c1)
-" width="200px"/>
+  <img src="https://media.giphy.com/media/3o7523jzGysBX84xpK/giphy.gif" width="200px"/>
 </div>
 <h3 align="center">Front-end developer from Kyrgyzstan</h3>
 

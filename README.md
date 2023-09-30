@@ -1,4 +1,4 @@
-<h1 align="center">Hello! And welcome to Los Polos Hermos</h1>
+<h1 align="center">Hello! And welcome to Los Polos Hermanos</h1>
 
 ###
 
